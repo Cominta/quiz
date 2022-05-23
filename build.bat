@@ -1,0 +1,1 @@
+g++ *.cpp -o build/main.exe -LD:\lib -lsfml-audio-d
